@@ -1,6 +1,6 @@
 {
     "name": "pxt-color-apds9960",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "micro:bit color sensor APDS9960, can detect seven colors",
     "dependencies": {
         "core": "*",
