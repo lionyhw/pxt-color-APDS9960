@@ -118,6 +118,7 @@ namespace apds9960 {
         let hue = rgb2hsl(r, g, b)
         return hue
     }
+    //% block = "APDS9960 detection Color %color"
     export function detectColor(color:colorlist):boolean{
         let color_hue = ReadColor()
         switch(color){
